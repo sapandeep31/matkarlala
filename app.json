@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "मोटापा कम ऐप",
+    "slug": "motapa-kam-app",
+    "version": "1.0.0",
+    "sdkVersion": "52.0.0",
+    "newArchEnabled": true,
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTabletMode": true
+    },
+    "android": {
+      "package": "com.motapakamapp"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}

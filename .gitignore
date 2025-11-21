@@ -1,0 +1,5 @@
+{
+  "version": ".0.1.0",
+  "packager": "npm",
+  "expo": "^50.0.0"
+}
